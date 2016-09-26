@@ -1,5 +1,5 @@
 # -WebTech-
-收錄大台北地區Web Tech 相關活動或講座，歡迎一起update
+收錄台灣Web Tech 相關活動或講座，歡迎一起update
 ## 場次及主題及主辦
 ### 固定舉辦
 時間: 每週四晚上 7:30 ~ 9:30<br>
@@ -19,6 +19,11 @@
 價錢: Free<br>
 主題：react.js<br>
 [link](https://www.facebook.com/groups/906048196159262/)<br>
+時間: 每週三晚上 7:30 ~ 9:30<br>
+地點: zoom.us<br>
+價錢: Free<br>
+主題： Docker<br>
+[link](https://www.facebook.com/groups/750311598438135/)<br>
 
 
 
